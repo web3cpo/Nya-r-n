@@ -1,6 +1,6 @@
 {
   "last_session_id": "4456f8f3-0df7-4bb8-976d-9c2036729e41",
-  "last_event_key": "4456f8f3-0df7-4bb8-976d-9c2036729e41:transcript:99b28d4531f29622fded9479919397e7111d2a87d334e56b069b83f2147c8956",
+  "last_event_key": "4456f8f3-0df7-4bb8-976d-9c2036729e41:transcript:9bbaf122e910cf8d53187e8eb8b2eb728dd9bc9c79bbdc693e0d993f8d4b1df8",
   "last_prompted_session_id": "",
   "last_reason": "short-session",
   "last_prompted_at": "",
@@ -8,5 +8,5 @@
   "last_actionable_message_count": 0,
   "deep_interview_lock_active": false,
   "deep_interview_lock_source": "/home/tristimigistus/Dokument/kompletta-rapporter/.omg/state/deep-interview.json",
-  "updated_at": "2026-04-27T22:56:40.534Z"
+  "updated_at": "2026-04-27T23:21:45.554Z"
 }

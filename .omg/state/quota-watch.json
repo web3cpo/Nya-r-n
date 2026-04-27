@@ -1,9 +1,9 @@
 {
   "turn_count": 0,
   "last_session_id": "4456f8f3-0df7-4bb8-976d-9c2036729e41",
-  "last_event_key": "4456f8f3-0df7-4bb8-976d-9c2036729e41:transcript:99b28d4531f29622fded9479919397e7111d2a87d334e56b069b83f2147c8956",
-  "last_transcript_hash": "99b28d4531f29622fded9479919397e7111d2a87d334e56b069b83f2147c8956",
+  "last_event_key": "4456f8f3-0df7-4bb8-976d-9c2036729e41:transcript:9bbaf122e910cf8d53187e8eb8b2eb728dd9bc9c79bbdc693e0d993f8d4b1df8",
+  "last_transcript_hash": "9bbaf122e910cf8d53187e8eb8b2eb728dd9bc9c79bbdc693e0d993f8d4b1df8",
   "cwd_mode": "parent-leaf",
   "last_cwd_label": "Dokument/kompletta-rapporter",
-  "updated_at": "2026-04-27T22:56:40.530Z"
+  "updated_at": "2026-04-27T23:21:45.558Z"
 }
