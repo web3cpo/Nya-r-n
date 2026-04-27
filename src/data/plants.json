@@ -1,0 +1,28 @@
+[
+  {
+    "id": "rhododendron-tomentosum",
+    "latinName": "Rhododendron tomentosum",
+    "commonName": "Skvattram",
+    "synonyms": ["Ledum palustre"],
+    "pharmacology": {
+      "activeMolecules": ["Ledol", "Palustrol"],
+      "mechanisms": [
+        "Inhibition of iNOS (Inducible Nitric Oxide Synthase)",
+        "COX-2 inhibition",
+        "Protection against chondrocyte apoptosis"
+      ]
+    },
+    "toxicity": {
+      "toxin": "Grayanotoxins",
+      "risk": "Cardiotoxic and hypotensive if ingested",
+      "safetyRating": "RED for oral / GREEN for topical (intact skin)"
+    },
+    "applications": [
+      {
+        "method": "Topical tincture/oil",
+        "target": "Joint inflammation",
+        "dosage": "Local application 2x daily"
+      }
+    ]
+  }
+]
