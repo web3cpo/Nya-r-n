@@ -1,1 +1,8 @@
 id_ed25519*
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
